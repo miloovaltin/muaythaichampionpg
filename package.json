@@ -1,16 +1,16 @@
 {
-"name": "muaythaichampionpg",
-"theme": "muay thai champion pg",
-"version": "9.7.10",
-"description": "muay thai champion pg ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
-"keywords": [
-"muay thai champion pg",
-"muay thai champion pg เครดิตฟรี",
-"muay thai champion pg ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/muaythaichampionpg",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "muaythaichampionpg",
+  "theme": "muay thai champion pg",
+  "version": "9.8.0",
+  "description": "muay thai champion pg ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
+  "keywords": [
+    "muay thai champion pg",
+    "muay thai champion pg เครดิตฟรี",
+    "muay thai champion pg ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/muaythaichampionpg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
